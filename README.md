@@ -1,4 +1,4 @@
-# sentiment_analyzer
+# Simple Sentiment Analyzer
 Python sentiment analyzer using TextBlob :]
 
 ## Features
